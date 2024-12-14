@@ -1,0 +1,11 @@
+__pycache__/
+*.cache*
+.venv
+.vscode
+*egg-info*
+
+data
+draft/*
+temp
+hf_token.txt
+open_ai_key.txt
